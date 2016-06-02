@@ -2,6 +2,7 @@
 
 ## Contenu / Inhalt
 
+- Installing the toolchain
 - AVR Programming with GCC tools ( Command line )
 - Register and GPIO
 - Assembler and delay
