@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name geda_fp)(type Geda-PCB)(uri "$(KIPRJMOD)/geda_fp")(options "")(descr ""))
+)
